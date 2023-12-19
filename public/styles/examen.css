@@ -1,0 +1,27 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.boton{
+    background-color: rgb(229, 231, 233);
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.boton:hover{
+background-color: rgb(10, 9, 9);
+color: rgb(229, 15, 15);
+}
+.noda {
+    text-align: center;
+}
+.dos{
+    text-align: center;
+}
+
+    
+
+
